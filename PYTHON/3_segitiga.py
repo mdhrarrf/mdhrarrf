@@ -1,6 +1,6 @@
 # Muhammad Haidar Almer Rafif
 # 24/09/24
-# Program Geometri Persegi
+# Program Geometri Segitiga
 
 def segitiga():
     a = int(input('\nMasukan Alas Segitiga: '))
