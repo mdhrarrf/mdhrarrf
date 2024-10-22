@@ -12,4 +12,4 @@ def balok():
     
     print('\nVolume\t\t\t:', (round(v(p,l,t),2)), 'cm3')
     print('Luas Permukaan\t\t:', (round(a(p,l,t),2)), 'cm2')
-balok()
+balok() 
