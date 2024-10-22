@@ -1,3 +1,7 @@
+# Muhammad Haidar Almer Rafif
+# 22/10/24
+# Program Belajar Function Lambda
+
 sisi = int(input('Sisi\t\t: '))
 lebar = int(input('Lebar\t\t: '))
 
