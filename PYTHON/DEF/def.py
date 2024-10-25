@@ -11,4 +11,4 @@ def pertambahan():
 pertambahan()
 pertambahan()
 pertambahan()
-# Untuk memanggil program tapi dengan memasukannya ke dalam function (def), sebenarnya seperti variable.
+# Untuk memanggil program tapi dengan memasukannya ke dalam function (def), sebenarnya seperti variable.    
