@@ -1,6 +1,6 @@
 # Muhammad Haidar Almer Rafif
 # 17/12/24
-# Program Belajar Function len
+# Program Belajar Function Len
 
 def panjang_string(teks):
     return len(teks)
