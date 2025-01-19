@@ -1,0 +1,19 @@
+body{
+    background: #ddd;
+    font-family: Tahoma;
+    font-size: 14px;
+}
+
+#teks1{
+    background: powderblue;
+    color: white;
+    padding: 10px 20px 30px 40px;
+    margin: 10px;
+    border: 10px dotted red;
+}
+
+.paragraf{
+    background: gold;
+    color: grey;
+    border: 1px solid red;
+}
