@@ -51,7 +51,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mdhrarrf&theme=react&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdhrarrf&show_icons=true&theme=react&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
