@@ -40,7 +40,7 @@
   <a href="https://linkedin.com/in/YOUR_LINK">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:haidarmeeting@gmail.com">
+  <a href="mailto:haidar@smkn1cianjur.sch.id">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
