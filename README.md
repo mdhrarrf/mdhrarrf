@@ -48,33 +48,16 @@ Kalau mau ngobrol soal project, kolaborasi, atau hal lainnya, feel free reach ou
 
 <div align="center">
 
-  <a href="https://github.com/mdhrarrf">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdhrarrf&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true&cache_seconds=21600" />
-  </a>
-  <a href="https://github.com/mdhrarrf">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhrarrf&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=8&cache_seconds=21600" />
-  </a>
+  <img height="175" src="https://github-readme-stats-fast.vercel.app/api?username=mdhrarrf&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" />
+  &nbsp;
+  <img height="175" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=mdhrarrf&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=8" />
 
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mdhrarrf&hide_border=true&background=0f172a&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&stroke=1e293b" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdhrarrf&bg_color=0f172a&color=38bdf8&line=1d4ed8&point=38bdf8&area_color=1e293b&area=true&hide_border=true&radius=6" width="98%" />
-</div>
-
-<br/>
-
----
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdhrarrf&theme=tokyonight&no-frame=true&no-bg=false&margin-w=12&column=4&row=2" />
+  <img src="https://streak-stats.demolab.com?user=mdhrarrf&hide_border=true&background=0f172a&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=94a3b8&dates=94a3b8&stroke=1e293b" />
 </div>
 
 <br/>
