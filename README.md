@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1200&color=94A3B8&center=true&vCenter=true&width=480&height=40&lines=Fullstack+%26+Mobile+Developer;React+%2F+Next.js+%2F+Flutter+%2F+Laravel;SMK+Negeri+1+Cianjur" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1200&color=94A3B8&center=true&vCenter=true&width=480&height=40&lines=Fullstack+%26+Mobile+Developer;React+%2F+Next.js+%2F+Flutter+%2F+Laravel;Cianjur%2C+Indonesia" alt="Typing" />
 </div>
 
 <br/>
@@ -22,11 +22,11 @@
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhrarrf&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=6" />
 
-Saya Haidar, pelajar SMK Negeri 1 Cianjur yang lagi belajar bikin aplikasi web dan mobile dari bawah. Mulai dari HTML statis sampai sekarang main di Next.js, Laravel, dan Flutter.
+Saya Haidar, seorang pelajar yang lagi belajar bikin aplikasi web dan mobile dari bawah. Mulai dari HTML statis sampai sekarang main di Next.js, Laravel, dan Flutter.
 
 Saya lebih suka nulis kode yang bisa dibaca orang lain daripada kode yang cuma kerja. Masih banyak yang perlu dipelajari, tapi itulah bagian yang paling menarik.
 
-Kalau mau ngobrol soal project, kolaborasi, atau hal acak lainnya, feel free reach out.
+Kalau mau ngobrol soal project, kolaborasi, atau hal lainnya, feel free reach out.
 
 <br/><br/><br/><br/>
 
