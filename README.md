@@ -20,15 +20,13 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhrarrf&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=6" />
-
 Saya Haidar, seorang pelajar yang lagi belajar bikin aplikasi web dan mobile dari bawah. Mulai dari HTML statis sampai sekarang main di Next.js, Laravel, dan Flutter.
 
 Saya lebih suka nulis kode yang bisa dibaca orang lain daripada kode yang cuma kerja. Masih banyak yang perlu dipelajari, tapi itulah bagian yang paling menarik.
 
 Kalau mau ngobrol soal project, kolaborasi, atau hal lainnya, feel free reach out.
 
-<br/><br/><br/><br/>
+<br/>
 
 ---
 
@@ -49,14 +47,24 @@ Kalau mau ngobrol soal project, kolaborasi, atau hal lainnya, feel free reach ou
 ## GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdhrarrf&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=38bdf8&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=mdhrarrf&hide_border=true&background=0f172a&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&stroke=1e293b" width="49%" />
+
+  <a href="https://github.com/mdhrarrf">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdhrarrf&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true&cache_seconds=21600" />
+  </a>
+  <a href="https://github.com/mdhrarrf">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhrarrf&layout=compact&hide_border=true&theme=tokyonight&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&langs_count=8&cache_seconds=21600" />
+  </a>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mdhrarrf&hide_border=true&background=0f172a&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&stroke=1e293b" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdhrarrf&bg_color=0f172a&color=38bdf8&line=1d4ed8&point=38bdf8&area_color=1e293b&area=true&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdhrarrf&bg_color=0f172a&color=38bdf8&line=1d4ed8&point=38bdf8&area_color=1e293b&area=true&hide_border=true&radius=6" width="98%" />
 </div>
 
 <br/>
@@ -66,7 +74,7 @@ Kalau mau ngobrol soal project, kolaborasi, atau hal lainnya, feel free reach ou
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdhrarrf&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdhrarrf&theme=tokyonight&no-frame=true&no-bg=false&margin-w=12&column=4&row=2" />
 </div>
 
 <br/>
